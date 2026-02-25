@@ -1,0 +1,114 @@
+{
+  "articles": [
+    {
+      "id": "12345",
+      "type": "BREAKING",
+      "title": "Major Summit Reaches Historic Climate Accord",
+      "subtitle": "World leaders agree on binding emissions targets; scientists call it a turning point.",
+      "publishedAt": "2026-02-25T14:30:00Z",
+      "imageURL": "https://images.unsplash.com/photo-1569163136549-10d8d6517ab2?w=800",
+      "section": "World",
+      "path": "article"
+    },
+    {
+      "id": "12346",
+      "type": "HOT",
+      "title": "Tech Giant Unveils Next-Gen AI Assistant",
+      "subtitle": "New model outperforms humans on reasoning benchmarks; release set for Q2.",
+      "publishedAt": "2026-02-25T12:00:00Z",
+      "imageURL": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "section": "Technology",
+      "path": "article"
+    },
+    {
+      "id": "12347",
+      "type": "SPORTS",
+      "title": "Underdogs Claim Championship in Overtime Thriller",
+      "subtitle": "Last-minute goal sends fans into frenzy; captain dedicates win to hometown.",
+      "publishedAt": "2026-02-25T10:15:00Z",
+      "imageURL": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=800",
+      "section": "Sports",
+      "path": "sport"
+    },
+    {
+      "id": "12348",
+      "type": "POLITICS",
+      "title": "Parliament Passes Landmark Healthcare Reform",
+      "subtitle": "Bill expands coverage to millions; opposition vows to challenge in court.",
+      "publishedAt": "2026-02-25T09:00:00Z",
+      "imageURL": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800",
+      "section": "Politics",
+      "path": "news"
+    },
+    {
+      "id": "12349",
+      "type": "CULTURE",
+      "title": "Award-Winning Director Announces New Film Trilogy",
+      "subtitle": "Shooting begins next month; cast includes multiple Oscar winners.",
+      "publishedAt": "2026-02-24T18:45:00Z",
+      "imageURL": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800",
+      "section": "Culture",
+      "path": "sport"
+    },
+    {
+      "id": "12350",
+      "type": "BUSINESS",
+      "title": "Markets Hit Record Highs on Strong Earnings",
+      "subtitle": "Index up 3% as investors bet on soft landing; Fed meeting in focus.",
+      "publishedAt": "2026-02-24T16:30:00Z",
+      "imageURL": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800",
+      "section": "Business",
+      "path": "article"
+    },
+    {
+      "id": "12351",
+      "type": "SCIENCE",
+      "title": "Researchers Discover New Species in Deep Ocean",
+      "subtitle": "Creature exhibits bioluminescence; could hold clues to medical breakthroughs.",
+      "publishedAt": "2026-02-24T14:00:00Z",
+      "imageURL": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=800",
+      "section": "Science",
+      "path": "opinion"
+    },
+    {
+      "id": "12352",
+      "type": "HEALTH",
+      "title": "Breakthrough Drug Shows Promise in Trial",
+      "subtitle": "Phase III results exceed expectations; regulators to fast-track review.",
+      "publishedAt": "2026-02-24T11:20:00Z",
+      "imageURL": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=800",
+      "section": "Health",
+      "path": "opinion"
+    },
+    {
+      "id": "12353",
+      "type": "HOT",
+      "title": "City Announces Major Transport Overhaul",
+      "subtitle": "New metro lines and bike lanes to be completed by 2028.",
+      "publishedAt": "2026-02-23T20:00:00Z",
+      "imageURL": "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?w=800",
+      "section": "Local",
+      "path": "news"
+    },
+    {
+      "id": "12354",
+      "type": "OPINION",
+      "title": "Why the Next Decade Will Define Our Future",
+      "subtitle": "A call for bold policy and collective action from leading thinkers.",
+      "publishedAt": "2026-02-23T08:00:00Z",
+      "imageURL": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800",
+      "section": "Opinion",
+      "path": "opinion"
+    },
+    {
+      "id": "12355",
+      "type": "BREAKING",
+      "title": "Rescue Teams Reach Stranded Expedition",
+      "subtitle": "All 12 members safe after helicopter evacuation from remote region.",
+      "publishedAt": "2026-02-22T22:45:00Z",
+      "imageURL": "https://images.unsplash.com/photo-1531366936337-7c912a4589a7?w=800",
+      "section": "World",
+      "path": "article"
+    }
+  ]
+}
