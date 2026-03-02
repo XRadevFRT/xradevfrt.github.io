@@ -4,8 +4,8 @@
       {
         "appIDs": ["VVCAM7963X.com.xradev.UniversalLinksPoCApp"],
         "components": [
-          { "/": "/article/*" },
           { "/": "/news/*" },
+          { "/": "/article/*" },
           { "/": "/sport/*" },
           { "/": "/opinion/*" }
         ]
